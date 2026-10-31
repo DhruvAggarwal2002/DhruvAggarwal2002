@@ -2,7 +2,7 @@
 
 I'm **Dhruv Aggarwal**, an aspiring Cognitive Neuroscientist.
 
-🧠 *Background*: I completed my MSc in Brain Sciences (Integrative Neuroscience) from the University of Glasgow, building on a BA (Hons.) in Psychology from Jindal School of Psychology and Counselling, O. P. Jindal Global University. I specialize in experimental psychology and neuroscience as my research interests include mapping the neural bases for memory processes in the human brain. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing.
+🧠 *Background*: I completed my MSc in Brain Sciences (Integrative Neuroscience) from the University of Glasgow, building on a BA (Hons.) in Psychology from Jindal School of Psychology and Counselling, O. P. Jindal Global University. I specialize in experimental psychology and neuroscience as My research interests include mapping the neural bases for cognitive functions such as memory, motivation, attention, and inhibitory control in the human brain. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing.
 
 🔭 *Currently*: Applying for ![PhD](https://img.shields.io/badge/PhD-305CDE) positions in Cognitive Neuroscience
 
